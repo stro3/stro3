@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar</h1>
-<h3 align="center">Full Stack Developer | AI & Data Science Enthusiast</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 💻 Full Stack Developer passionate about building scalable web applications
 - 🚀 Skilled in React, Node.js, Python, and Flask
-- 📊 Interested in AI, Machine Learning, and Data Science
+- 📊 Interested in AI, Machine Learning
 - 🎯 Currently improving system design and backend architecture
 - 🌱 Always learning new technologies
 
@@ -35,7 +35,12 @@ Tools:
 - Vercel
 
 ---
+### 🏆 Achievements
 
+- 🛰 Participated in the **ISRO National Hackathon**
+- 📑 Research paper published on **arXiv**
+- ⚡ Developed and deployed full-stack applications using React and Node.js
+- 🧠 Continuously learning and building projects in AI and Data Science
 ### 📂 Featured Projects
 
 🚀 **Full Stack Web Application**  
@@ -48,20 +53,13 @@ Machine learning research project published on arXiv.
 Interactive dashboard for analytics.
 
 ---
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
 ---
 
 ### 🌐 Connect With Me
 
-LinkedIn: Your LinkedIn Link  
-Portfolio: Your Portfolio Website  
-Email: your-email@gmail.com
+LinkedIn: https://www.linkedin.com/in/yash-kumar-b4201030b/
+Portfolio: https://stro3.github.io/Yash-Kumar-Protfolio/
+Email: yashstro038@gmail.com
 
 ---
 
