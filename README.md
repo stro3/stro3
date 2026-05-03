@@ -39,7 +39,6 @@ Tools:
 ### 🏆 Achievements
 
 - 🛰 Participated in the **ISRO National Hackathon**
-- 📑 Research paper published on **arXiv**
 - ⚡ Developed and deployed full-stack applications using React and Node.js
 - 🧠 Continuously learning and building projects in AI and Data Science
 ### 📂 Featured Projects
